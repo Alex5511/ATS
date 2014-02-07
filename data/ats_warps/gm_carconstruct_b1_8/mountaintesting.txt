@@ -1,0 +1,1 @@
+steamid=STEAM_0:0:51307619;name=mountaintesting;vec=-8964.419922 2034.666870 -247.968750;ang=0.000 178.480 0.000

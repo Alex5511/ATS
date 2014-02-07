@@ -1,0 +1,1 @@
+steamid=STEAM_0:0:51307619;name=bluebaseoutpost;vec=9103.397461 4213.117188 -11089.968750;ang=0.000 141.481 0.000
